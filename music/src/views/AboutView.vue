@@ -1,5 +1,6 @@
-<template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
-</template>
+<!--
+ * @Description: 
+ * @Autor: yzq
+ * @Date: 2022-04-02 16:18:50
+ * @LastEditors: yzq
+-->
